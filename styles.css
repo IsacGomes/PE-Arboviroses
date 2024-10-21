@@ -10,9 +10,8 @@ body {
     background-color: #f4f4f4;
     font-family: "Comfortaa", sans-serif;
     font-weight: bolder;
-    background-image:url("https://images.pexels.com/photos/16051978/pexels-photo-16051978/free-photo-of-close-up-of-colorful-pills.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     background-size: cover;
-    filter: opacity(95%);
+    
 }
 
 header {
@@ -60,6 +59,9 @@ footer {
     padding: 10px 0;
     background: #007bff;
     color: white;
+}
+footer p {
+    padding: px;
 }
 
 @media (max-width: 600px) {
